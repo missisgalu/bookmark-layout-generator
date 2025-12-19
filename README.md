@@ -47,16 +47,16 @@ pip install pillow
 ### 1. Что на входе (папка input)
 Обычные картинки закладок (лицевая сторона):
 
-![Закладка 1](input/1.png) ![Закладка 2](input/2.png)
+<img src="input/1.png" width="100"> <img src="input/2.png" width="100">
 
 ### 2. Что на выходе (папка output)
 Скрипт сам собирает их на листы А4.
 
 #### Лицевая сторона (front)
-![Лицевая сторона](output/layout_sheet_01_front.png)
+<img src="output/layout_sheet_01_front.png" width="400">
 
 #### Обратная сторона (back) — уже отзеркалена
-![Обратная сторона](output/layout_sheet_01_back.png)
+<img src="output/layout_sheet_01_back.png" width="400">
 
 ## Самое главное: Как печатать?
 Чтобы лицо и оборот совпали, делай так (для одностороннего принтера):
